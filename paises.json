@@ -1,0 +1,1184 @@
+[
+    {
+        "name": "Canadá",
+        "region": "América del Norte",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/360px-Flag_of_Canada.svg.png"
+    },
+    {
+        "name": "Estados Unidos",
+        "region": "América del Norte",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/342px-Flag_of_the_United_States.svg.png"
+    },
+    {
+        "name": "México",
+        "region": "América del Norte",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/315px-Flag_of_Mexico.svg.png"
+    },
+    {
+        "name": "Belice",
+        "region": "América Central",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/300px-Flag_of_Belize.svg.png"
+    },
+    {
+        "name": "Costa Rica",
+        "region": "América Central",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/300px-Flag_of_Costa_Rica.svg.png"
+    },
+    {
+        "name": "El Salvador",
+        "region": "América Central",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/319px-Flag_of_El_Salvador.svg.png"
+    },
+    {
+        "name": "Guatemala",
+        "region": "América Central",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/288px-Flag_of_Guatemala.svg.png"
+    },
+    {
+        "name": "Honduras",
+        "region": "América Central",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/360px-Flag_of_Honduras.svg.png"
+    },
+    {
+        "name": "Nicaragua",
+        "region": "América Central",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/300px-Flag_of_Nicaragua.svg.png"
+    },
+    {
+        "name": "Panamá",
+        "region": "América Central",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/270px-Flag_of_Panama.svg.png"
+    },
+    {
+        "name": "Antigua y Barbuda",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/270px-Flag_of_Antigua_and_Barbuda.svg.png"
+    },
+    {
+        "name": "Bahamas",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/360px-Flag_of_the_Bahamas.svg.png"
+    },
+    {
+        "name": "Barbados",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/270px-Flag_of_Barbados.svg.png"
+    },
+    {
+        "name": "Cuba",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/360px-Flag_of_Cuba.svg.png"
+    },
+    {
+        "name": "Dominica",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/360px-Flag_of_Dominica.svg.png"
+    },
+    {
+        "name": "Granada",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/300px-Flag_of_Grenada.svg.png"
+    },
+    {
+        "name": "Haití",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/300px-Flag_of_Haiti.svg.png"
+    },
+    {
+        "name": "Jamaica",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/360px-Flag_of_Jamaica.svg.png"
+    },
+    {
+        "name": "República Dominicana",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/270px-Flag_of_the_Dominican_Republic.svg.png"
+    },
+    {
+        "name": "San Cristóbal y Nieves",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/270px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
+    },
+    {
+        "name": "Santa Lucía",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/360px-Flag_of_Saint_Lucia.svg.png"
+    },
+    {
+        "name": "San Vicente y las Granadinas",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/270px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
+    },
+    {
+        "name": "Trinidad y Tobago",
+        "region": "El Caribe",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/300px-Flag_of_Trinidad_and_Tobago.svg.png"
+    },
+    {
+        "name": "Argentina",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/288px-Flag_of_Argentina.svg.png"
+    },
+    {
+        "name": "Bolivia",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/264px-Flag_of_Bolivia.svg.png"
+    },
+    {
+        "name": "Brasil",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/257px-Flag_of_Brazil.svg.png"
+    },
+    {
+        "name": "Chile",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/270px-Flag_of_Chile.svg.png"
+    },
+    {
+        "name": "Colombia",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/270px-Flag_of_Colombia.svg.png"
+    },
+    {
+        "name": "Ecuador",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/270px-Flag_of_Ecuador.svg.png"
+    },
+    {
+        "name": "Guyana",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/300px-Flag_of_Guyana.svg.png"
+    },
+    {
+        "name": "Paraguay",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/328px-Flag_of_Paraguay.svg.png"
+    },
+    {
+        "name": "Perú",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/270px-Flag_of_Peru.svg.png"
+    },
+    {
+        "name": "Surinam",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/270px-Flag_of_Suriname.svg.png"
+    },
+    {
+        "name": "Uruguay",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/271px-Flag_of_Uruguay.svg.png"
+    },
+    {
+        "name": "Venezuela",
+        "region": "América del Sur",
+        "continente": "América",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/270px-Flag_of_Venezuela.svg.png"
+    },
+    {
+        "name": "Albania",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/252px-Flag_of_Albania.svg.png"
+    },
+    {
+        "name": "Alemania",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/300px-Flag_of_Germany.svg.png"
+    },
+    {
+        "name": "Andorra",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/257px-Flag_of_Andorra.svg.png"
+    },
+    {
+        "name": "Armenia",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/360px-Flag_of_Armenia.svg.png"
+    },
+    {
+        "name": "Austria",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/270px-Flag_of_Austria.svg.png"
+    },
+    {
+        "name": "Azerbaiyán",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/360px-Flag_of_Azerbaijan.svg.png"
+    },
+    {
+        "name": "Bélgica",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/208px-Flag_of_Belgium.svg.png"
+    },
+    {
+        "name": "Bielorrusia",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/360px-Flag_of_Belarus.svg.png"
+    },
+    {
+        "name": "Bosnia y Herzegovina",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/360px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+    },
+    {
+        "name": "Bulgaria",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/300px-Flag_of_Bulgaria.svg.png"
+    },
+    {
+        "name": "Chipre",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/270px-Flag_of_Cyprus.svg.png"
+    },
+    {
+        "name": "Croacia",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/360px-Flag_of_Croatia.svg.png"
+    },
+    {
+        "name": "Dinamarca",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/238px-Flag_of_Denmark.svg.png"
+    },
+    {
+        "name": "Eslovaquia",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/270px-Flag_of_Slovakia.svg.png"
+    },
+    {
+        "name": "Eslovenia",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Slovenia_%28WFB_2013%29.svg/360px-Flag_of_Slovenia_%28WFB_2013%29.svg.png"
+    },
+    {
+        "name": "España",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/270px-Flag_of_Spain.svg.png"
+    },
+    {
+        "name": "Estonia",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/283px-Flag_of_Estonia.svg.png"
+    },
+    {
+        "name": "Finlandia",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/295px-Flag_of_Finland.svg.png"
+    },
+    {
+        "name": "Francia",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/270px-Flag_of_France.svg.png"
+    },
+    {
+        "name": "Georgia",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/270px-Flag_of_Georgia.svg.png"
+    },
+    {
+        "name": "Grecia",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/270px-Flag_of_Greece.svg.png"
+    },
+    {
+        "name": "Hungría",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/360px-Flag_of_Hungary.svg.png"
+    },
+    {
+        "name": "Irlanda",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/360px-Flag_of_Ireland.svg.png"
+    },
+    {
+        "name": "Islandia",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/250px-Flag_of_Iceland.svg.png"
+    },
+    {
+        "name": "Italia",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/270px-Flag_of_Italy.svg.png"
+    },
+    {
+        "name": "Letonia",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/360px-Flag_of_Latvia.svg.png"
+    },
+    {
+        "name": "Liechtenstein",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/300px-Flag_of_Liechtenstein.svg.png"
+    },
+    {
+        "name": "Lituania",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/300px-Flag_of_Lithuania.svg.png"
+    },
+    {
+        "name": "Luxemburgo",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/301px-Flag_of_Luxembourg.svg.png"
+    },
+    {
+        "name": "Malta",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/270px-Flag_of_Malta.svg.png"
+    },
+    {
+        "name": "Moldavia",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/360px-Flag_of_Moldova.svg.png"
+    },
+    {
+        "name": "Mónaco",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/225px-Flag_of_Monaco.svg.png"
+    },
+    {
+        "name": "Montenegro",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/360px-Flag_of_Montenegro.svg.png"
+    },
+    {
+        "name": "Noruega",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/248px-Flag_of_Norway.svg.png"
+    },
+    {
+        "name": "Países Bajos",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/270px-Flag_of_the_Netherlands.svg.png"
+    },
+    {
+        "name": "Polonia",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/288px-Flag_of_Poland.svg.png"
+    },
+    {
+        "name": "Portugal",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/270px-Flag_of_Portugal.svg.png"
+    },
+    {
+        "name": "Reino Unido",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/300px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
+    },
+    {
+        "name": "República Checa",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/270px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    {
+        "name": "Rumania",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/270px-Flag_of_Romania.svg.png"
+    },
+    {
+        "name": "Rusia",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/270px-Flag_of_Russia.svg.png"
+    },
+    {
+        "name": "San Marino",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/240px-Flag_of_San_Marino.svg.png"
+    },
+    {
+        "name": "Serbia",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/270px-Flag_of_Serbia.svg.png"
+    },
+    {
+        "name": "Suecia",
+        "region": "Europa Septentrional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/288px-Flag_of_Sweden.svg.png"
+    },
+    {
+        "name": "Suiza",
+        "region": "Europa Occidental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/180px-Flag_of_Switzerland_%28Pantone%29.svg.png"
+    },
+    {
+        "name": "Ucrania",
+        "region": "Europa Oriental",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/270px-Flag_of_Ukraine.svg.png"
+    },
+    {
+        "name": "Ciudad del Vaticano",
+        "region": "Europa Meridional",
+        "continente": "Europa",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg/180px-Flag_of_Vatican_City_%282023%E2%80%93present%29.svg.png"
+    },
+    {
+        "name": "Afganistán",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/360px-Flag_of_the_Taliban.svg.png"
+    },
+    {
+        "name": "Arabia Saudita",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/270px-Flag_of_Saudi_Arabia.svg.png"
+    },
+    {
+        "name": "Armenia",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/360px-Flag_of_Armenia.svg.png"
+    },
+    {
+        "name": "Azerbaiyán",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/360px-Flag_of_Azerbaijan.svg.png"
+    },
+    {
+        "name": "Bangladés",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/300px-Flag_of_Bangladesh.svg.png"
+    },
+    {
+        "name": "Baréin",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/300px-Flag_of_Bahrain.svg.png"
+    },
+    {
+        "name": "Birmania",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/270px-Flag_of_Myanmar.svg.png"
+    },
+    {
+        "name": "Brunéi",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/360px-Flag_of_Brunei.svg.png"
+    },
+    {
+        "name": "Bután",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/270px-Flag_of_Bhutan.svg.png"
+    },
+    {
+        "name": "Camboya",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/282px-Flag_of_Cambodia.svg.png"
+    },
+    {
+        "name": "Catar",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/459px-Flag_of_Qatar.svg.png"
+    },
+    {
+        "name": "China",
+        "region": "Asia Oriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/270px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+    },
+    {
+        "name": "Corea del Norte",
+        "region": "Asia Oriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/360px-Flag_of_North_Korea.svg.png"
+    },
+    {
+        "name": "Corea del Sur",
+        "region": "Asia Oriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/270px-Flag_of_South_Korea.svg.png"
+    },
+    {
+        "name": "Emiratos Árabes Unidos",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/360px-Flag_of_the_United_Arab_Emirates.svg.png"
+    },
+    {
+        "name": "Filipinas",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/360px-Flag_of_the_Philippines.svg.png"
+    },
+    {
+        "name": "Georgia",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/270px-Flag_of_Georgia.svg.png"
+    },
+    {
+        "name": "India",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/270px-Flag_of_India.svg.png"
+    },
+    {
+        "name": "Indonesia",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/270px-Flag_of_Indonesia.svg.png"
+    },
+    {
+        "name": "Irak",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/270px-Flag_of_Iraq.svg.png"
+    },
+    {
+        "name": "Irán",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/315px-Flag_of_Iran.svg.png"
+    },
+    {
+        "name": "Israel",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/248px-Flag_of_Israel.svg.png"
+    },
+    {
+        "name": "Japón",
+        "region": "Asia Oriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/270px-Flag_of_Japan.svg.png"
+    },
+    {
+        "name": "Jordania",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/360px-Flag_of_Jordan.svg.png"
+    },
+    {
+        "name": "Kazajistán",
+        "region": "Asia Central",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/360px-Flag_of_Kazakhstan.svg.png"
+    },
+    {
+        "name": "Kirguistán",
+        "region": "Asia Central",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/300px-Flag_of_Kyrgyzstan.svg.png"
+    },
+    {
+        "name": "Kuwait",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/360px-Flag_of_Kuwait.svg.png"
+    },
+    {
+        "name": "Laos",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/270px-Flag_of_Laos.svg.png"
+    },
+    {
+        "name": "Líbano",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/270px-Flag_of_Lebanon.svg.png"
+    },
+    {
+        "name": "Malasia",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/360px-Flag_of_Malaysia.svg.png"
+    },
+    {
+        "name": "Maldivas",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/270px-Flag_of_Maldives.svg.png"
+    },
+    {
+        "name": "Mongolia",
+        "region": "Asia Oriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/360px-Flag_of_Mongolia.svg.png"
+    },
+    {
+        "name": "Nepal",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/148px-Flag_of_Nepal.svg.png"
+    },
+    {
+        "name": "Omán",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/315px-Flag_of_Oman.svg.png"
+    },
+    {
+        "name": "Pakistán",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/270px-Flag_of_Pakistan.svg.png"
+    },
+    {
+        "name": "Rusia",
+        "region": "Asia Septentrional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/270px-Flag_of_Russia.svg.png"
+    },
+    {
+        "name": "Singapur",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/270px-Flag_of_Singapore.svg.png"
+    },
+    {
+        "name": "Siria",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_Syria_%282024%E2%80%93present%29.svg/320px-Flag_of_Syria_%282024%E2%80%93present%29.svg.png"
+    },
+    {
+        "name": "Sri Lanka",
+        "region": "Asia Meridional",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/360px-Flag_of_Sri_Lanka.svg.png"
+    },
+    {
+        "name": "Tailandia",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/270px-Flag_of_Thailand.svg.png"
+    },
+    {
+        "name": "Tayikistán",
+        "region": "Asia Central",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/360px-Flag_of_Tajikistan.svg.png"
+    },
+    {
+        "name": "Timor Oriental",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/360px-Flag_of_East_Timor.svg.png"
+    },
+    {
+        "name": "Turkmenistán",
+        "region": "Asia Central",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/270px-Flag_of_Turkmenistan.svg.png"
+    },
+    {
+        "name": "Turquía",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/270px-Flag_of_Turkey.svg.png"
+    },
+    {
+        "name": "Uzbekistán",
+        "region": "Asia Central",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/360px-Flag_of_Uzbekistan.svg.png"
+    },
+    {
+        "name": "Vietnam",
+        "region": "Asia Sudoriental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/270px-Flag_of_Vietnam.svg.png"
+    },
+    {
+        "name": "Yemen",
+        "region": "Asia Occidental",
+        "continente": "Asia",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/270px-Flag_of_Yemen.svg.png"
+    },
+    {
+        "name": "Angola",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/270px-Flag_of_Angola.svg.png"
+    },
+    {
+        "name": "Argelia",
+        "region": "África del Norte",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/270px-Flag_of_Algeria.svg.png"
+    },
+    {
+        "name": "Benín",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/270px-Flag_of_Benin.svg.png"
+    },
+    {
+        "name": "Botsuana",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/270px-Flag_of_Botswana.svg.png"
+    },
+    {
+        "name": "Burkina Faso",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/270px-Flag_of_Burkina_Faso.svg.png"
+    },
+    {
+        "name": "Burundi",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/300px-Flag_of_Burundi.svg.png"
+    },
+    {
+        "name": "Cabo Verde",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/306px-Flag_of_Cape_Verde.svg.png"
+    },
+    {
+        "name": "Camerún",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/270px-Flag_of_Cameroon.svg.png"
+    },
+    {
+        "name": "Chad",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/270px-Flag_of_Chad.svg.png"
+    },
+    {
+        "name": "Comoras",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/300px-Flag_of_the_Comoros.svg.png"
+    },
+    {
+        "name": "República del Congo",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/270px-Flag_of_the_Republic_of_the_Congo.svg.png"
+    },
+    {
+        "name": "Costa de Marfil",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/270px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+    },
+    {
+        "name": "Yibuti",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/270px-Flag_of_Djibouti.svg.png"
+    },
+    {
+        "name": "Egipto",
+        "region": "África del Norte",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Egypt_%28variant%29.svg/270px-Flag_of_Egypt_%28variant%29.svg.png"
+    },
+    {
+        "name": "Eritrea",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/360px-Flag_of_Eritrea.svg.png"
+    },
+    {
+        "name": "Suazilandia o Esuatini",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/270px-Flag_of_Eswatini.svg.png"
+    },
+    {
+        "name": "Etiopía",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/360px-Flag_of_Ethiopia.svg.png"
+    },
+    {
+        "name": "Gabón",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/240px-Flag_of_Gabon.svg.png"
+    },
+    {
+        "name": "Gambia",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/270px-Flag_of_The_Gambia.svg.png"
+    },
+    {
+        "name": "Ghana",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/270px-Flag_of_Ghana.svg.png"
+    },
+    {
+        "name": "Guinea",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/270px-Flag_of_Guinea.svg.png"
+    },
+    {
+        "name": "Guinea-Bisáu",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/360px-Flag_of_Guinea-Bissau.svg.png"
+    },
+    {
+        "name": "Guinea Ecuatorial",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/270px-Flag_of_Equatorial_Guinea.svg.png"
+    },
+    {
+        "name": "Kenia",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/270px-Flag_of_Kenya.svg.png"
+    },
+    {
+        "name": "Lesoto",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/270px-Flag_of_Lesotho.svg.png"
+    },
+    {
+        "name": "Liberia",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/342px-Flag_of_Liberia.svg.png"
+    },
+    {
+        "name": "Libia",
+        "region": "África del Norte",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/360px-Flag_of_Libya.svg.png"
+    },
+    {
+        "name": "Madagascar",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/270px-Flag_of_Madagascar.svg.png"
+    },
+    {
+        "name": "Malaui",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/270px-Flag_of_Malawi.svg.png"
+    },
+    {
+        "name": "Malí",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/270px-Flag_of_Mali.svg.png"
+    },
+    {
+        "name": "Marruecos",
+        "region": "África del Norte",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/270px-Flag_of_Morocco.svg.png"
+    },
+    {
+        "name": "Mauricio",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/270px-Flag_of_Mauritius.svg.png"
+    },
+    {
+        "name": "Mauritania",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/270px-Flag_of_Mauritania.svg.png"
+    },
+    {
+        "name": "Mozambique",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/270px-Flag_of_Mozambique.svg.png"
+    },
+    {
+        "name": "Namibia",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/270px-Flag_of_Namibia.svg.png"
+    },
+    {
+        "name": "Níger",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/210px-Flag_of_Niger.svg.png"
+    },
+    {
+        "name": "Nigeria",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/360px-Flag_of_Nigeria.svg.png"
+    },
+    {
+        "name": "República Centroafricana",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/270px-Flag_of_the_Central_African_Republic.svg.png"
+    },
+    {
+        "name": "República Democrática del Congo",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/240px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+    },
+    {
+        "name": "Ruanda",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/270px-Flag_of_Rwanda.svg.png"
+    },
+    {
+        "name": "Santo Tomé y Príncipe",
+        "region": "África Central",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/360px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png"
+    },
+    {
+        "name": "Senegal",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/270px-Flag_of_Senegal.svg.png"
+    },
+    {
+        "name": "Seychelles",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/360px-Flag_of_Seychelles.svg.png"
+    },
+    {
+        "name": "Sierra Leona",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/270px-Flag_of_Sierra_Leone.svg.png"
+    },
+    {
+        "name": "Somalia",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/270px-Flag_of_Somalia.svg.png"
+    },
+    {
+        "name": "Sudáfrica",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/270px-Flag_of_South_Africa.svg.png"
+    },
+    {
+        "name": "Sudán",
+        "region": "África del Norte",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/360px-Flag_of_Sudan.svg.png"
+    },
+    {
+        "name": "Sudán del Sur",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/360px-Flag_of_South_Sudan.svg.png"
+    },
+    {
+        "name": "Tanzania",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/270px-Flag_of_Tanzania.svg.png"
+    },
+    {
+        "name": "Togo",
+        "region": "África Occidental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Togo_%283-2%29.svg/270px-Flag_of_Togo_%283-2%29.svg.png"
+    },
+    {
+        "name": "Túnez",
+        "region": "África del Norte",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/270px-Flag_of_Tunisia.svg.png"
+    },
+    {
+        "name": "Uganda",
+        "region": "África Oriental",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/270px-Flag_of_Uganda.svg.png"
+    },
+    {
+        "name": "Zambia",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/270px-Flag_of_Zambia.svg.png"
+    },
+    {
+        "name": "Zimbabue",
+        "region": "África Austral",
+        "continente": "África",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/360px-Flag_of_Zimbabwe.svg.png"
+    },
+    {
+        "name": "Australia",
+        "region": "Australasia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/360px-Flag_of_Australia_%28converted%29.svg.png"
+    },
+    {
+        "name": "Fiyi",
+        "region": "Melanesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/360px-Flag_of_Fiji.svg.png"
+    },
+    {
+        "name": "Kiribati",
+        "region": "Micronesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/360px-Flag_of_Kiribati.svg.png"
+    },
+    {
+        "name": "Islas Marshall",
+        "region": "Micronesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/342px-Flag_of_the_Marshall_Islands.svg.png"
+    },
+    {
+        "name": "Estados Federados de Micronesia",
+        "region": "Micronesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/342px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
+    },
+    {
+        "name": "Nauru",
+        "region": "Micronesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/360px-Flag_of_Nauru.svg.png"
+    },
+    {
+        "name": "Nueva Zelanda",
+        "region": "Australasia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/360px-Flag_of_New_Zealand.svg.png"
+    },
+    {
+        "name": "Palaos Palestina",
+        "region": "Micronesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/288px-Flag_of_Palau.svg.png"
+    },
+    {
+        "name": "Papúa Nueva Guinea",
+        "region": "Melanesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/240px-Flag_of_Papua_New_Guinea.svg.png"
+    },
+    {
+        "name": "Samoa",
+        "region": "Polinesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/360px-Flag_of_Samoa.svg.png"
+    },
+    {
+        "name": "Islas Salomón",
+        "region": "Melanesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/360px-Flag_of_the_Solomon_Islands.svg.png"
+    },
+    {
+        "name": "Tonga",
+        "region": "Polinesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/360px-Flag_of_Tonga.svg.png"
+    },
+    {
+        "name": "Tuvalu",
+        "region": "Polinesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/360px-Flag_of_Tuvalu.svg.png"
+    },
+    {
+        "name": "Vanuatu",
+        "region": "Melanesia",
+        "continente": "Oceanía",
+        "url": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/300px-Flag_of_Vanuatu.svg.png"
+    }
+]
